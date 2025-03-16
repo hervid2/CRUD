@@ -1,0 +1,24 @@
+{
+   "ciudades":[
+      {
+         "id":1,
+         "nombre":"Bucaramanga"
+      },
+      {
+         "id":2,
+         "nombre":"Floridablanca"
+      }
+   ],
+   "tipo":[
+      {
+        "id":1,
+        "nombre":"cédula" 
+      },
+      {
+         "id":2,
+         "nombre":"pasaporte"
+      }
+
+   ],
+   "usuarios":[]
+  }
