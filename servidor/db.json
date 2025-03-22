@@ -1,24 +1,46 @@
 {
-   "ciudades":[
-      {
-         "id":1,
-         "nombre":"Bucaramanga"
-      },
-      {
-         "id":2,
-         "nombre":"Floridablanca"
-      }
-   ],
-   "tipo":[
-      {
-        "id":1,
-        "nombre":"cédula" 
-      },
-      {
-         "id":2,
-         "nombre":"pasaporte"
-      }
-
-   ],
-   "usuarios":[]
-  }
+  "ciudades": [
+    {
+      "id": 1,
+      "nombre": "Bucaramanga"
+    },
+    {
+      "id": 2,
+      "nombre": "Floridablanca"
+    }
+  ],
+  "tipo": [
+    {
+      "id": 1,
+      "nombre": "cédula"
+    },
+    {
+      "id": 2,
+      "nombre": "pasaporte"
+    }
+  ],
+  "usuarios": [
+    {
+      "nombre": "hernan",
+      "apellidos": "cardona",
+      "ciudad": 1,
+      "telefono": "3168004080",
+      "direccion": "cra 31 50 04",
+      "tipo_documento": 1,
+      "documento": "109866878",
+      "email": "hsdff@correo.com",
+      "id": 1
+    },
+    {
+      "nombre": "Mateo",
+      "apellidos": "Gebel Mendoza",
+      "ciudad": 2,
+      "telefono": "3259874565",
+      "direccion": "diagonal 45, 54 -45",
+      "tipo_documento": 1,
+      "documento": "456875421",
+      "email": "sdfdfdf@gmail.com",
+      "id": 2
+    }
+  ]
+}
